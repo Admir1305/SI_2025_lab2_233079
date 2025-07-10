@@ -1,3 +1,9 @@
 # SI_2025_lab2_233079
+Адмир Јашаровски 233079.
 
-<img width="586" height="560" alt="CFG" src="https://github.com/user-attachments/assets/84e4b451-682d-4395-a701-90c3ce1d1403" />
+2.Фотографија од графот.
+<img width="610" height="732" alt="image" src="https://github.com/user-attachments/assets/06756b06-46af-450b-b2f2-e34e8cc793cb" />
+
+3.Цикломатска комплексност на дадениот код е 9 , и тоа ко добив така што на графот има 8 јазли кој што имаат два срелки и + 1 тоа се 9
+
+4. Тест случаеви според e
