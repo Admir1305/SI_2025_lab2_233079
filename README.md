@@ -1,2 +1,3 @@
 # SI_2025_lab2_233079
-Admir Jasarovski
+
+![control flow graph](Screenshots/CFG.png)
